@@ -1,3 +1,5 @@
+
+I am using 3 slip days on this assignment
 COMP 321 Project 6: Web Proxy
 
 <Replace with your name(s) and NetID(s).>
